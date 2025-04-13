@@ -1,2 +1,6 @@
-# Agora
-Agora, an open citizen science app.
+# InviteHelper
+Helps groups get together.
+
+ngrok http --url=winvite.ngrok.dev 3000 . 
+
+
